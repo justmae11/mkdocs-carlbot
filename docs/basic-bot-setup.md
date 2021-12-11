@@ -7,7 +7,7 @@ This guide will cover everything you need to do to get started with everything c
 
 ### 1. Setting up the prefix
 
-I want the bot to respond when I use the prefix `-` to do that, I can type `!prefix set -`. Carlbot offers up to 15 prefixes at once, so I could also add a second prefix by typing `!prefix add .`
+I want the bot to respond when I use the prefix `.` to do that, I can type `!prefix set .`. Carlbot offers up to 15 prefixes at once, so I could also add a second prefix by typing `!prefix add .`
 
 ### 2. Setting up all the channels
 
